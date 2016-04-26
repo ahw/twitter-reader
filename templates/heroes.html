@@ -1,0 +1,13 @@
+{{#each tweets}}
+    {{#with attributes}}
+    <div class="hero-tweet-list-item" data-id="{{id}}">
+        <div class="screen-name">{{user.screen_name}}</div>
+        <img src="{{user.profile_image_url_https}}" title="{{user.screen_name}}" alt="{{user.screen_name}}"/>
+        <div class="tweet-text">
+            {{{textHtml}}}
+            <a target="_blank" href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}">source</a>
+            {{created_at_formatted}}
+        </div>
+    </div>
+    {{/with}}
+{{/each}}

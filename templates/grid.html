@@ -1,0 +1,18 @@
+{{#each tweets}}
+    {{#with attributes}}
+    <div class="tweet-square" data-id="{{id}}">
+            <div class="thumbnail-container">
+                <img class="tweet-img" src="{{user.profile_image_url_https}}" title="{{user.screen_name}}: {{{text}}}" alt="{{user.screen_name}}"/>
+                <div class="info-square index">{{@index}}</div>
+            </div>
+            {{#if isTopFavorite}}
+                <div class="info-square favorite-count">{{favorite_count}}</div>
+            {{/if}}
+            {{#if isTopRetweet}}
+                <div class="info-square retweet-count">{{retweet_count}}</div>
+            {{/if}}
+            <div class="text">{{{textHtml}}}</div>
+            <div class="date">{{{createdAtFormatted}}}</div>
+        </div>
+    {{/with}}
+{{/each}}

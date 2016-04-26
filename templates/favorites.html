@@ -1,0 +1,12 @@
+<h2>faves</h2>
+<ul id="favorites-list">
+{{#each tweets}}
+    {{#with attributes}}
+    <li data-id="{{id}}">
+        <img src="{{user.profile_image_url_https}}" alt="" title="{{user.screen_name}}"/>
+        {{user.screen_name}}: {{favorite_count}}, {{{textHtml}}}
+        <a target="_blank" href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}">source</a>
+    </li>
+    {{/with}}
+{{/each}}
+</ul>

@@ -1,0 +1,1054 @@
+[
+    {
+        "created_at": "Thu Mar 20 21:08:35 +0000 2014",
+        "id": 446755202872668160,
+        "id_str": "446755202872668160",
+        "text": "Breaking: Top SAC portfolio manager Plotkin to start his own hedge fund.  http://t.co/XIvAebs40u",
+        "source": "<a href=\"http://online.wsj.com\" rel=\"nofollow\">WSJ.com</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3108351,
+            "id_str": "3108351",
+            "name": "Wall Street Journal",
+            "screen_name": "WSJ",
+            "location": "New York, NY",
+            "description": "In our 125th year, breaking news and features from the WSJ. Tweets by @rubinafillion @elanazak @allisonlichter @sarahmarshall @toddjolmstead @mayaj and @lheron.",
+            "url": "http://t.co/ISU3VFHHhP",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ISU3VFHHhP",
+                            "expanded_url": "http://wsj.com",
+                            "display_url": "wsj.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4216070,
+            "friends_count": 835,
+            "listed_count": 75025,
+            "created_at": "Sun Apr 01 06:22:13 +0000 2007",
+            "favourites_count": 788,
+            "utc_offset": -14400,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 75481,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "EDF2F5",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/421411290729291776/j3cisjbo_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/421411290729291776/j3cisjbo_normal.jpeg",
+            "profile_link_color": "093D72",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 9,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "lol",
+                    "indices": [
+                        50,
+                        63
+                    ]
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/XIvAebs40u",
+                    "expanded_url": "http://on.wsj.com/1l8bk9L",
+                    "display_url": "on.wsj.com/1l8bk9L",
+                    "indices": [
+                        74,
+                        96
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Mar 20 21:06:07 +0000 2014",
+        "id": 446754584464474100,
+        "id_str": "446754584464474113",
+        "text": "Uh oh. This absurdly slim camera is the perfect selfie machine http://t.co/X2tFkH7185 http://t.co/xSwygLSCPe",
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1344951,
+            "id_str": "1344951",
+            "name": "WIRED",
+            "screen_name": "WIRED",
+            "location": "San Francisco/New York",
+            "description": "WIRED makes sense of a world in constant transformation.",
+            "url": "http://t.co/AbRkBRjcYo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/AbRkBRjcYo",
+                            "expanded_url": "http://WIRED.com",
+                            "display_url": "WIRED.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2683109,
+            "friends_count": 321,
+            "listed_count": 67916,
+            "created_at": "Sat Mar 17 09:57:25 +0000 2007",
+            "favourites_count": 735,
+            "utc_offset": -25200,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 29742,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/734548027/5e5ee18945d22a9e2d9971208971bfdd.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/734548027/5e5ee18945d22a9e2d9971208971bfdd.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000703426078/f0e0491c473589ad484d976ca45d712b_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000703426078/f0e0491c473589ad484d976ca45d712b_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344951/1393270079",
+            "profile_link_color": "99DCF0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 17,
+        "favorite_count": 12,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "lol",
+                    "indices": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/X2tFkH7185",
+                    "expanded_url": "http://wrd.cm/OBNDZv",
+                    "display_url": "wrd.cm/OBNDZv",
+                    "indices": [
+                        63,
+                        85
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 446754584275734500,
+                    "id_str": "446754584275734528",
+                    "indices": [
+                        86,
+                        108
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/BjMw7WmIUAA4jMl.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/BjMw7WmIUAA4jMl.jpg",
+                    "url": "http://t.co/xSwygLSCPe",
+                    "display_url": "pic.twitter.com/xSwygLSCPe",
+                    "expanded_url": "http://twitter.com/WIRED/status/446754584464474113/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 800,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 255,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Mar 20 21:05:30 +0000 2014",
+        "id": 446754428558008300,
+        "id_str": "446754428558008320",
+        "text": "RT @chadaverysnyder: @theneedledrop *atmosphere is the new songwriting #truthbullets",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18648536,
+            "id_str": "18648536",
+            "name": "Anthony Fantano",
+            "screen_name": "theneedledrop",
+            "location": "Internet",
+            "description": "A b/vlog and public radio show about music of the independent persuasion.",
+            "url": "http://t.co/bDAYYc6CkR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/bDAYYc6CkR",
+                            "expanded_url": "http://theneedledrop.com",
+                            "display_url": "theneedledrop.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 49847,
+            "friends_count": 3877,
+            "listed_count": 858,
+            "created_at": "Mon Jan 05 22:09:28 +0000 2009",
+            "favourites_count": 3966,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 42073,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C7B395",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493025679/backgroundgreyblock_2.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493025679/backgroundgreyblock_2.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/417706259895160832/s08_f8WG_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/417706259895160832/s08_f8WG_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18648536/1378847371",
+            "profile_link_color": "C61717",
+            "profile_sidebar_border_color": "FF7300",
+            "profile_sidebar_fill_color": "FCF1E0",
+            "profile_text_color": "1F1C1F",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Mar 20 21:01:38 +0000 2014",
+            "id": 446753456528039940,
+            "id_str": "446753456528039936",
+            "text": "@theneedledrop *atmosphere is the new songwriting #truthbullets",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": 446752026006134800,
+            "in_reply_to_status_id_str": "446752026006134784",
+            "in_reply_to_user_id": 18648536,
+            "in_reply_to_user_id_str": "18648536",
+            "in_reply_to_screen_name": "theneedledrop",
+            "user": {
+                "id": 35459691,
+                "id_str": "35459691",
+                "name": "chud",
+                "screen_name": "chadaverysnyder",
+                "location": "",
+                "description": "i m chud.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 34,
+                "friends_count": 29,
+                "listed_count": 0,
+                "created_at": "Sun Apr 26 13:00:05 +0000 2009",
+                "favourites_count": 70,
+                "utc_offset": -36000,
+                "time_zone": "Hawaii",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 357,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "001157",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445373425360850945/7bighIcW_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445373425360850945/7bighIcW_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/35459691/1391465216",
+                "profile_link_color": "1F54FF",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 2,
+            "favorite_count": 1,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "truthbullets",
+                        "indices": [
+                            50,
+                            63
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "theneedledrop",
+                        "name": "Anthony Fantano",
+                        "id": 18648536,
+                        "id_str": "18648536",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "truthbullets",
+                    "indices": [
+                        71,
+                        84
+                    ]
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "chadaverysnyder",
+                    "name": "chud",
+                    "id": 35459691,
+                    "id_str": "35459691",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "theneedledrop",
+                    "name": "Anthony Fantano",
+                    "id": 18648536,
+                    "id_str": "18648536",
+                    "indices": [
+                        21,
+                        35
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Mar 20 21:05:23 +0000 2014",
+        "id": 446754397604024300,
+        "id_str": "446754397604024322",
+        "text": "RT @bjenken: @theneedledrop you ever gonna get around to the Shrek sound track?",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18648536,
+            "id_str": "18648536",
+            "name": "Anthony Fantano",
+            "screen_name": "theneedledrop",
+            "location": "Internet",
+            "description": "A b/vlog and public radio show about music of the independent persuasion.",
+            "url": "http://t.co/bDAYYc6CkR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/bDAYYc6CkR",
+                            "expanded_url": "http://theneedledrop.com",
+                            "display_url": "theneedledrop.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 49847,
+            "friends_count": 3877,
+            "listed_count": 858,
+            "created_at": "Mon Jan 05 22:09:28 +0000 2009",
+            "favourites_count": 3966,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 42073,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C7B395",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493025679/backgroundgreyblock_2.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493025679/backgroundgreyblock_2.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/417706259895160832/s08_f8WG_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/417706259895160832/s08_f8WG_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18648536/1378847371",
+            "profile_link_color": "C61717",
+            "profile_sidebar_border_color": "FF7300",
+            "profile_sidebar_fill_color": "FCF1E0",
+            "profile_text_color": "1F1C1F",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Mar 20 21:03:16 +0000 2014",
+            "id": 446753867468779500,
+            "id_str": "446753867468779520",
+            "text": "@theneedledrop you ever gonna get around to the Shrek sound track?",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": 446750912686858240,
+            "in_reply_to_status_id_str": "446750912686858240",
+            "in_reply_to_user_id": 18648536,
+            "in_reply_to_user_id_str": "18648536",
+            "in_reply_to_screen_name": "theneedledrop",
+            "user": {
+                "id": 496704004,
+                "id_str": "496704004",
+                "name": "Brett Jenken",
+                "screen_name": "bjenken",
+                "location": "",
+                "description": "I live in a van, down by the river.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 100,
+                "friends_count": 313,
+                "listed_count": 0,
+                "created_at": "Sun Feb 19 06:48:25 +0000 2012",
+                "favourites_count": 309,
+                "utc_offset": -10800,
+                "time_zone": "Atlantic Time (Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 743,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/882859179/0f03e7d377d196e968ac425d99ae5f38.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/882859179/0f03e7d377d196e968ac425d99ae5f38.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/432395471781244928/4sPlvi1b_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/432395471781244928/4sPlvi1b_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/496704004/1362858407",
+                "profile_link_color": "5293A8",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "7B0B16",
+                "profile_text_color": "2E6047",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 4,
+            "favorite_count": 22,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "theneedledrop",
+                        "name": "Anthony Fantano",
+                        "id": 18648536,
+                        "id_str": "18648536",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "bjenken",
+                    "name": "Brett Jenken",
+                    "id": 496704004,
+                    "id_str": "496704004",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "theneedledrop",
+                    "name": "Anthony Fantano",
+                    "id": 18648536,
+                    "id_str": "18648536",
+                    "indices": [
+                        13,
+                        27
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Mar 20 21:03:55 +0000 2014",
+        "id": 446754030736642050,
+        "id_str": "446754030736642048",
+        "text": "Review: La Dispute - The Rooms of the House http://t.co/FEcq90QXI2",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18648536,
+            "id_str": "18648536",
+            "name": "Anthony Fantano",
+            "screen_name": "theneedledrop",
+            "location": "Internet",
+            "description": "A b/vlog and public radio show about music of the independent persuasion.",
+            "url": "http://t.co/bDAYYc6CkR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/bDAYYc6CkR",
+                            "expanded_url": "http://theneedledrop.com",
+                            "display_url": "theneedledrop.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 49847,
+            "friends_count": 3877,
+            "listed_count": 858,
+            "created_at": "Mon Jan 05 22:09:28 +0000 2009",
+            "favourites_count": 3966,
+            "utc_offset": -18000,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 42073,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C7B395",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493025679/backgroundgreyblock_2.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493025679/backgroundgreyblock_2.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/417706259895160832/s08_f8WG_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/417706259895160832/s08_f8WG_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18648536/1378847371",
+            "profile_link_color": "C61717",
+            "profile_sidebar_border_color": "FF7300",
+            "profile_sidebar_fill_color": "FCF1E0",
+            "profile_text_color": "1F1C1F",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/FEcq90QXI2",
+                    "expanded_url": "http://youtu.be/_7Rfp95Jcw8",
+                    "display_url": "youtu.be/_7Rfp95Jcw8",
+                    "indices": [
+                        44,
+                        66
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Mar 20 21:03:09 +0000 2014",
+        "id": 446753836430917600,
+        "id_str": "446753836430917633",
+        "text": "RT @TheAVClub: These are the American cities Hollywood loves to destroy http://t.co/wKOK6jVTri http://t.co/6BanqGseQo",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14075928,
+            "id_str": "14075928",
+            "name": "The Onion",
+            "screen_name": "TheOnion",
+            "location": "",
+            "description": "America's Finest News Source. Subscribe on YouTube: http://t.co/5h833w1KO1",
+            "url": "http://t.co/Abkc9I2inH",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/Abkc9I2inH",
+                            "expanded_url": "http://www.theonion.com",
+                            "display_url": "theonion.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/5h833w1KO1",
+                            "expanded_url": "http://bitly.com/xzrBUA",
+                            "display_url": "bitly.com/xzrBUA",
+                            "indices": [
+                                52,
+                                74
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 5784684,
+            "friends_count": 12,
+            "listed_count": 70570,
+            "created_at": "Tue Mar 04 02:48:37 +0000 2008",
+            "favourites_count": 34,
+            "utc_offset": -14400,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 27721,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/183829455/onion_twitter.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/183829455/onion_twitter.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3654358881/476bd54bd9c2bc0f9a38b4e097ce6af5_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3654358881/476bd54bd9c2bc0f9a38b4e097ce6af5_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14075928/1369059277",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "F2E195",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Mar 20 20:10:27 +0000 2014",
+            "id": 446740573215408100,
+            "id_str": "446740573215408128",
+            "text": "These are the American cities Hollywood loves to destroy http://t.co/wKOK6jVTri http://t.co/6BanqGseQo",
+            "source": "web",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 16027904,
+                "id_str": "16027904",
+                "name": "The AV Club",
+                "screen_name": "TheAVClub",
+                "location": "U.S.A.",
+                "description": "Pop culture obsessives writing for the pop culture obsessed. Also http://t.co/cLZ4dPai0L",
+                "url": "http://t.co/vDM9MFGQ66",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/vDM9MFGQ66",
+                                "expanded_url": "http://www.avclub.com/",
+                                "display_url": "avclub.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/cLZ4dPai0L",
+                                "expanded_url": "http://facebook.com/avclubpage",
+                                "display_url": "facebook.com/avclubpage",
+                                "indices": [
+                                    66,
+                                    88
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 314169,
+                "friends_count": 367,
+                "listed_count": 6817,
+                "created_at": "Thu Aug 28 15:07:34 +0000 2008",
+                "favourites_count": 272,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 40706,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/663726374/dpimyvcxrw6i5mbpec86.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/663726374/dpimyvcxrw6i5mbpec86.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000757427996/541dbf32c44c55996bcaecaf03ad25f0_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000757427996/541dbf32c44c55996bcaecaf03ad25f0_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/16027904/1392928080",
+                "profile_link_color": "0000FF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E0FF92",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 92,
+            "favorite_count": 77,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/wKOK6jVTri",
+                        "expanded_url": "http://avc.lu/1kMVz5u",
+                        "display_url": "avc.lu/1kMVz5u",
+                        "indices": [
+                            57,
+                            79
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 446740573219602400,
+                        "id_str": "446740573219602432",
+                        "indices": [
+                            80,
+                            102
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/BjMkLzWCQAAP2w5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/BjMkLzWCQAAP2w5.jpg",
+                        "url": "http://t.co/6BanqGseQo",
+                        "display_url": "pic.twitter.com/6BanqGseQo",
+                        "expanded_url": "http://twitter.com/TheAVClub/status/446740573215408128/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 600,
+                                "h": 338,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 191,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 92,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/wKOK6jVTri",
+                    "expanded_url": "http://avc.lu/1kMVz5u",
+                    "display_url": "avc.lu/1kMVz5u",
+                    "indices": [
+                        72,
+                        94
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "TheAVClub",
+                    "name": "The AV Club",
+                    "id": 16027904,
+                    "id_str": "16027904",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 446740573219602400,
+                    "id_str": "446740573219602432",
+                    "indices": [
+                        95,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/BjMkLzWCQAAP2w5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/BjMkLzWCQAAP2w5.jpg",
+                    "url": "http://t.co/6BanqGseQo",
+                    "display_url": "pic.twitter.com/6BanqGseQo",
+                    "expanded_url": "http://twitter.com/TheAVClub/status/446740573215408128/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 600,
+                            "h": 338,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 191,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]

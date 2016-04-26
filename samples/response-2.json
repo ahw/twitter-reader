@@ -1,0 +1,2995 @@
+[
+    {
+        "created_at": "Sat Feb 08 23:30:10 +0000 2014",
+        "id": 432295317875064800,
+        "id_str": "432295317875064832",
+        "text": "RT @arnoldtblumberg: @TheLEGOMovie truly is “awesome,” but more than that it’s moving, profound, & a celebration of pure creativity. #LEGO …",
+        "source": "Twitter for iPhone",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 750368076,
+            "id_str": "750368076",
+            "name": "The LEGO Movie",
+            "screen_name": "TheLEGOMovie",
+            "location": "",
+            "description": "Official Twitter page for The LEGO Movie! In theaters February 7th!",
+            "url": "http://t.co/ldEXtvOH14",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ldEXtvOH14",
+                            "expanded_url": "http://thelegomovie.com",
+                            "display_url": "thelegomovie.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 34961,
+            "friends_count": 19,
+            "listed_count": 150,
+            "created_at": "Sat Aug 11 01:04:03 +0000 2012",
+            "favourites_count": 623,
+            "utc_offset": -25200,
+            "time_zone": "Arizona",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 568,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/431712008753254401/00uaUIcr.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/431712008753254401/00uaUIcr.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000791482416/0d60ca1206fd9cc4d4eb0574f028d5c0_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000791482416/0d60ca1206fd9cc4d4eb0574f028d5c0_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/750368076/1385441387",
+            "profile_link_color": "EB0505",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 08 23:26:54 +0000 2014",
+            "id": 432294498853740540,
+            "id_str": "432294498853740544",
+            "text": "@TheLEGOMovie truly is “awesome,” but more than that it’s moving, profound, & a celebration of pure creativity. #LEGO @LEGO_Group",
+            "source": "TweetDeck",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 750368076,
+            "in_reply_to_user_id_str": "750368076",
+            "in_reply_to_screen_name": "TheLEGOMovie",
+            "user": {
+                "id": 27889499,
+                "id_str": "27889499",
+                "name": "Arnold",
+                "screen_name": "arnoldtblumberg",
+                "location": "",
+                "description": "Co-Host, The G2V Podcast (http://t.co/gkKSoY1MRr); Publisher (http://t.co/RbJR2ztOP7); Author, Teacher, International Zombie Expert (& comics, Doctor Who, LEGO)",
+                "url": "http://t.co/CKljphC6Bq",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/CKljphC6Bq",
+                                "expanded_url": "http://wefollow.com/arnoldtblumberg",
+                                "display_url": "wefollow.com/arnoldtblumberg",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/gkKSoY1MRr",
+                                "expanded_url": "http://g2vpodcast.com",
+                                "display_url": "g2vpodcast.com",
+                                "indices": [
+                                    26,
+                                    48
+                                ]
+                            },
+                            {
+                                "url": "http://t.co/RbJR2ztOP7",
+                                "expanded_url": "http://atbpublishing.com",
+                                "display_url": "atbpublishing.com",
+                                "indices": [
+                                    62,
+                                    84
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 267,
+                "friends_count": 146,
+                "listed_count": 43,
+                "created_at": "Tue Mar 31 15:13:29 +0000 2009",
+                "favourites_count": 390,
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 7803,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "253329",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/210262084/gears-and-wood.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/210262084/gears-and-wood.jpg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1255239627/arnold2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255239627/arnold2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/27889499/1386187448",
+                "profile_link_color": "CF2D2D",
+                "profile_sidebar_border_color": "5C3C26",
+                "profile_sidebar_fill_color": "D1AB39",
+                "profile_text_color": "080702",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 4,
+            "favorite_count": 5,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "LEGO",
+                        "indices": [
+                            116,
+                            121
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "TheLEGOMovie",
+                        "name": "The LEGO Movie",
+                        "id": 750368076,
+                        "id_str": "750368076",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    },
+                    {
+                        "screen_name": "LEGO_Group",
+                        "name": "The LEGO Group",
+                        "id": 295325513,
+                        "id_str": "295325513",
+                        "indices": [
+                            122,
+                            133
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LEGO",
+                    "indices": [
+                        137,
+                        142
+                    ]
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "arnoldtblumberg",
+                    "name": "Arnold",
+                    "id": 27889499,
+                    "id_str": "27889499",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "TheLEGOMovie",
+                    "name": "The LEGO Movie",
+                    "id": 750368076,
+                    "id_str": "750368076",
+                    "indices": [
+                        21,
+                        34
+                    ]
+                },
+                {
+                    "screen_name": "LEGO_Group",
+                    "name": "The LEGO Group",
+                    "id": 295325513,
+                    "id_str": "295325513",
+                    "indices": [
+                        143,
+                        144
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 23:27:41 +0000 2014",
+        "id": 432294692769005600,
+        "id_str": "432294692769005568",
+        "text": "The owner of Flappy Birds has tweeted that he is pulling the popular game. @iansherr has more: http://t.co/cyfRtHbpGk",
+        "source": "TweetDeck",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28172926,
+            "id_str": "28172926",
+            "name": "WSJD",
+            "screen_name": "WSJD",
+            "location": "",
+            "description": "The Wall Street Journal's home for global tech news, analysis, commentary, daily buzz and reviews. | ($) marks subscriber content.",
+            "url": "http://t.co/G6LDFkS9qB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/G6LDFkS9qB",
+                            "expanded_url": "http://wsjd.com",
+                            "display_url": "wsjd.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 109314,
+            "friends_count": 65,
+            "listed_count": 4821,
+            "created_at": "Wed Apr 01 19:23:56 +0000 2009",
+            "favourites_count": 3,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 11145,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/421409513455894528/tyj0G4uS_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/421409513455894528/tyj0G4uS_normal.jpeg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/cyfRtHbpGk",
+                    "expanded_url": "http://on.wsj.com/1dydpm8",
+                    "display_url": "on.wsj.com/1dydpm8",
+                    "indices": [
+                        95,
+                        117
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "iansherr",
+                    "name": "Ian Sherr",
+                    "id": 726393,
+                    "id_str": "726393",
+                    "indices": [
+                        75,
+                        84
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 23:23:51 +0000 2014",
+        "id": 432293730255921150,
+        "id_str": "432293730255921153",
+        "text": "'American Idol' runner-up Clay Aiken announces Congressional run in North Carolina. http://t.co/xOT0N2G5b8",
+        "source": "SocialFlow",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 12480582,
+            "id_str": "12480582",
+            "name": "Ad Age",
+            "screen_name": "adage",
+            "location": "New York and beyond...",
+            "description": "Ad Age is the leading global source of news, intelligence and conversation for marketing and media communities.",
+            "url": "http://t.co/83n91xZQEd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/83n91xZQEd",
+                            "expanded_url": "http://adage.com",
+                            "display_url": "adage.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 546965,
+            "friends_count": 12306,
+            "listed_count": 20930,
+            "created_at": "Mon Jan 21 04:14:09 +0000 2008",
+            "favourites_count": 253,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 20406,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6077722/twitterfile7.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6077722/twitterfile7.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3245320621/ce6b6797e1f705a3aed4de9a74bf8898_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3245320621/ce6b6797e1f705a3aed4de9a74bf8898_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/12480582/1380648405",
+            "profile_link_color": "28889E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDDDDD",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 7,
+        "favorite_count": 3,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/xOT0N2G5b8",
+                    "expanded_url": "http://bit.ly/Mzv1bi",
+                    "display_url": "bit.ly/Mzv1bi",
+                    "indices": [
+                        84,
+                        106
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 23:15:27 +0000 2014",
+        "id": 432291614212784100,
+        "id_str": "432291614212784128",
+        "text": "Sports of The Times: The Winning Formula of Luge’s ‘Old Man’ http://t.co/iYIk1gpGAZ",
+        "source": "SocialFlow",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 807095,
+            "id_str": "807095",
+            "name": "The New York Times",
+            "screen_name": "nytimes",
+            "location": "New York City",
+            "description": "Where the conversation begins. Follow for breaking news, special reports, http://t.co/u15NNuLyJH homepage links and RTs of our journalists.",
+            "url": "http://t.co/ahvuWqicF9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9",
+                            "expanded_url": "http://www.nytimes.com/",
+                            "display_url": "nytimes.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/u15NNuLyJH",
+                            "expanded_url": "http://NYTimes.com",
+                            "display_url": "NYTimes.com",
+                            "indices": [
+                                74,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 10886393,
+            "friends_count": 899,
+            "listed_count": 137737,
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+            "favourites_count": 18,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 126074,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2044921128/finals_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2044921128/finals_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1355346050",
+            "profile_link_color": "607696",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 20,
+        "favorite_count": 17,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/iYIk1gpGAZ",
+                    "expanded_url": "http://nyti.ms/1f4WybG",
+                    "display_url": "nyti.ms/1f4WybG",
+                    "indices": [
+                        61,
+                        83
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 23:11:20 +0000 2014",
+        "id": 432290581750898700,
+        "id_str": "432290581750898688",
+        "text": "RT @mcaylor55: @TheLEGOMovie My son was so excited after the movie to come home & make a double-decker couch without instructions!!! http:/…",
+        "source": "Twitter for iPhone",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 750368076,
+            "id_str": "750368076",
+            "name": "The LEGO Movie",
+            "screen_name": "TheLEGOMovie",
+            "location": "",
+            "description": "Official Twitter page for The LEGO Movie! In theaters February 7th!",
+            "url": "http://t.co/ldEXtvOH14",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ldEXtvOH14",
+                            "expanded_url": "http://thelegomovie.com",
+                            "display_url": "thelegomovie.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 34961,
+            "friends_count": 19,
+            "listed_count": 150,
+            "created_at": "Sat Aug 11 01:04:03 +0000 2012",
+            "favourites_count": 623,
+            "utc_offset": -25200,
+            "time_zone": "Arizona",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 568,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/431712008753254401/00uaUIcr.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/431712008753254401/00uaUIcr.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000791482416/0d60ca1206fd9cc4d4eb0574f028d5c0_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000791482416/0d60ca1206fd9cc4d4eb0574f028d5c0_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/750368076/1385441387",
+            "profile_link_color": "EB0505",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 08 22:06:40 +0000 2014",
+            "id": 432274305439633400,
+            "id_str": "432274305439633409",
+            "text": "@TheLEGOMovie My son was so excited after the movie to come home & make a double-decker couch without instructions!!! http://t.co/s5qznXFHYQ",
+            "source": "Twitter for Android",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 750368076,
+            "in_reply_to_user_id_str": "750368076",
+            "in_reply_to_screen_name": "TheLEGOMovie",
+            "user": {
+                "id": 880840466,
+                "id_str": "880840466",
+                "name": "Mari ",
+                "screen_name": "mcaylor55",
+                "location": "California Dreamin'",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 16,
+                "friends_count": 57,
+                "listed_count": 0,
+                "created_at": "Sun Oct 14 19:38:03 +0000 2012",
+                "favourites_count": 11,
+                "utc_offset": -21600,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1096,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/428933835833630720/KffyhIiP_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/428933835833630720/KffyhIiP_normal.jpeg",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 4,
+            "favorite_count": 16,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "TheLEGOMovie",
+                        "name": "The LEGO Movie",
+                        "id": 750368076,
+                        "id_str": "750368076",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 432274305292828700,
+                        "id_str": "432274305292828672",
+                        "indices": [
+                            122,
+                            144
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Bf-_MLyCAAA5WPc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Bf-_MLyCAAA5WPc.jpg",
+                        "url": "http://t.co/s5qznXFHYQ",
+                        "display_url": "pic.twitter.com/s5qznXFHYQ",
+                        "expanded_url": "http://twitter.com/mcaylor55/status/432274305439633409/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 599,
+                                "h": 337,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 191,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mcaylor55",
+                    "name": "Mari ",
+                    "id": 880840466,
+                    "id_str": "880840466",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "TheLEGOMovie",
+                    "name": "The LEGO Movie",
+                    "id": 750368076,
+                    "id_str": "750368076",
+                    "indices": [
+                        15,
+                        28
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 432274305292828700,
+                    "id_str": "432274305292828672",
+                    "indices": [
+                        143,
+                        144
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Bf-_MLyCAAA5WPc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Bf-_MLyCAAA5WPc.jpg",
+                    "url": "http://t.co/s5qznXFHYQ",
+                    "display_url": "pic.twitter.com/s5qznXFHYQ",
+                    "expanded_url": "http://twitter.com/mcaylor55/status/432274305439633409/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 599,
+                            "h": 337,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 191,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 23:08:52 +0000 2014",
+        "id": 432289959815307260,
+        "id_str": "432289959815307264",
+        "text": "RT @scottEweinberg: Thank you to @philiplord @chrizmillr and everyone on @thelegomovie for keeping us cynics honest. What a weird, funny, l…",
+        "source": "Twitter for iPhone",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 750368076,
+            "id_str": "750368076",
+            "name": "The LEGO Movie",
+            "screen_name": "TheLEGOMovie",
+            "location": "",
+            "description": "Official Twitter page for The LEGO Movie! In theaters February 7th!",
+            "url": "http://t.co/ldEXtvOH14",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ldEXtvOH14",
+                            "expanded_url": "http://thelegomovie.com",
+                            "display_url": "thelegomovie.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 34961,
+            "friends_count": 19,
+            "listed_count": 150,
+            "created_at": "Sat Aug 11 01:04:03 +0000 2012",
+            "favourites_count": 623,
+            "utc_offset": -25200,
+            "time_zone": "Arizona",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 568,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/431712008753254401/00uaUIcr.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/431712008753254401/00uaUIcr.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000791482416/0d60ca1206fd9cc4d4eb0574f028d5c0_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000791482416/0d60ca1206fd9cc4d4eb0574f028d5c0_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/750368076/1385441387",
+            "profile_link_color": "EB0505",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 08 21:56:14 +0000 2014",
+            "id": 432271679470207000,
+            "id_str": "432271679470206977",
+            "text": "Thank you to @philiplord @chrizmillr and everyone on @thelegomovie for keeping us cynics honest. What a weird, funny, lovable movie.",
+            "source": "MetroTwit",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 19078594,
+                "id_str": "19078594",
+                "name": "Scott Weinberg",
+                "screen_name": "scottEweinberg",
+                "location": "Philadelphia, PA",
+                "description": "Writer. Film critic at @FEARnet. Producer. Semi-actor. Wise-ass. Film advocate. Horror geek. Cat fan. Twitter junkie. If I tweet too much unfollow me quietly.",
+                "url": "http://t.co/niOlGUidiO",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/niOlGUidiO",
+                                "expanded_url": "http://www.rottentomatoes.com/critic/scott-weinberg/movies.php",
+                                "display_url": "rottentomatoes.com/critic/scott-w…",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 27668,
+                "friends_count": 2554,
+                "listed_count": 1327,
+                "created_at": "Fri Jan 16 18:25:10 +0000 2009",
+                "favourites_count": 125,
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 179787,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/21375274/scott_futurama.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/21375274/scott_futurama.jpg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3491995465/d306c93653a95130f7e834232cf3ce18_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3491995465/d306c93653a95130f7e834232cf3ce18_normal.jpeg",
+                "profile_link_color": "D32228",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "B8B8B8",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 8,
+            "favorite_count": 18,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "philiplord",
+                        "name": "philip lord",
+                        "id": 42825374,
+                        "id_str": "42825374",
+                        "indices": [
+                            13,
+                            24
+                        ]
+                    },
+                    {
+                        "screen_name": "chrizmillr",
+                        "name": "Chris Miller",
+                        "id": 42982250,
+                        "id_str": "42982250",
+                        "indices": [
+                            25,
+                            36
+                        ]
+                    },
+                    {
+                        "screen_name": "TheLEGOMovie",
+                        "name": "The LEGO Movie",
+                        "id": 750368076,
+                        "id_str": "750368076",
+                        "indices": [
+                            53,
+                            66
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "scottEweinberg",
+                    "name": "Scott Weinberg",
+                    "id": 19078594,
+                    "id_str": "19078594",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                },
+                {
+                    "screen_name": "philiplord",
+                    "name": "philip lord",
+                    "id": 42825374,
+                    "id_str": "42825374",
+                    "indices": [
+                        33,
+                        44
+                    ]
+                },
+                {
+                    "screen_name": "chrizmillr",
+                    "name": "Chris Miller",
+                    "id": 42982250,
+                    "id_str": "42982250",
+                    "indices": [
+                        45,
+                        56
+                    ]
+                },
+                {
+                    "screen_name": "TheLEGOMovie",
+                    "name": "The LEGO Movie",
+                    "id": 750368076,
+                    "id_str": "750368076",
+                    "indices": [
+                        73,
+                        86
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 23:03:31 +0000 2014",
+        "id": 432288611258888200,
+        "id_str": "432288611258888193",
+        "text": "Are you Paper-worthy? Branded content and Facebook's ambitious new reading app http://t.co/1F3Di1xk8v",
+        "source": "SocialFlow",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 12480582,
+            "id_str": "12480582",
+            "name": "Ad Age",
+            "screen_name": "adage",
+            "location": "New York and beyond...",
+            "description": "Ad Age is the leading global source of news, intelligence and conversation for marketing and media communities.",
+            "url": "http://t.co/83n91xZQEd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/83n91xZQEd",
+                            "expanded_url": "http://adage.com",
+                            "display_url": "adage.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 546965,
+            "friends_count": 12306,
+            "listed_count": 20930,
+            "created_at": "Mon Jan 21 04:14:09 +0000 2008",
+            "favourites_count": 253,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 20406,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6077722/twitterfile7.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6077722/twitterfile7.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3245320621/ce6b6797e1f705a3aed4de9a74bf8898_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3245320621/ce6b6797e1f705a3aed4de9a74bf8898_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/12480582/1380648405",
+            "profile_link_color": "28889E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDDDDD",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 6,
+        "favorite_count": 8,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/1F3Di1xk8v",
+                    "expanded_url": "http://bit.ly/MzuXIO",
+                    "display_url": "bit.ly/MzuXIO",
+                    "indices": [
+                        79,
+                        101
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:57:45 +0000 2014",
+        "id": 432287161724194800,
+        "id_str": "432287161724194816",
+        "text": "Since 2009, more than 1.5 million Americans have left workforce. Where dropouts are highest: http://t.co/T54A4PFQoQ http://t.co/BA1IAgOLWK",
+        "source": "SocialFlow",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3108351,
+            "id_str": "3108351",
+            "name": "Wall Street Journal",
+            "screen_name": "WSJ",
+            "location": "New York, NY",
+            "description": "In our 125th year, breaking news and features from the WSJ. Tweets by @rubinafillion @elanazak @allisonlichter @sarahmarshall @fieldproducer @mayaj and @lheron.",
+            "url": "http://t.co/ISU3VFHHhP",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ISU3VFHHhP",
+                            "expanded_url": "http://wsj.com",
+                            "display_url": "wsj.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4036460,
+            "friends_count": 817,
+            "listed_count": 73300,
+            "created_at": "Sun Apr 01 06:22:13 +0000 2007",
+            "favourites_count": 772,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 71428,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "EDF2F5",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/421411290729291776/j3cisjbo_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/421411290729291776/j3cisjbo_normal.jpeg",
+            "profile_link_color": "093D72",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 121,
+        "favorite_count": 39,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/T54A4PFQoQ",
+                    "expanded_url": "http://on.wsj.com/1bapQdG",
+                    "display_url": "on.wsj.com/1bapQdG",
+                    "indices": [
+                        93,
+                        115
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 432287161514459140,
+                    "id_str": "432287161514459136",
+                    "indices": [
+                        116,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Bf_K4g8IAAA6UUO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Bf_K4g8IAAA6UUO.jpg",
+                    "url": "http://t.co/BA1IAgOLWK",
+                    "display_url": "pic.twitter.com/BA1IAgOLWK",
+                    "expanded_url": "http://twitter.com/WSJ/status/432287161724194816/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 973,
+                            "h": 755,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 599,
+                            "h": 465,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 263,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:55:05 +0000 2014",
+        "id": 432286489586577400,
+        "id_str": "432286489586577408",
+        "text": "Next week: Actor Ty Burrell, author Elizabeth Kolbert, and actor Joel Kinnaman. 11/10c.",
+        "source": "TweetDeck",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 158414847,
+            "id_str": "158414847",
+            "name": "The Daily Show",
+            "screen_name": "TheDailyShow",
+            "location": "",
+            "description": "Jon Stewart and The Best F#@king News Team. Mon-Thurs at 11/10c on @ComedyCentral. Full episodes, videos, guest information. #DailyShow",
+            "url": "http://t.co/MxgoniawaM",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MxgoniawaM",
+                            "expanded_url": "http://www.thedailyshow.com/",
+                            "display_url": "thedailyshow.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2186105,
+            "friends_count": 52,
+            "listed_count": 30143,
+            "created_at": "Tue Jun 22 16:41:05 +0000 2010",
+            "favourites_count": 2,
+            "utc_offset": -21600,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 6085,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/115660373/tds_twitter_background.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/115660373/tds_twitter_background.jpg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1111488530/TDS_TwitterProfile_sq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111488530/TDS_TwitterProfile_sq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/158414847/1377538292",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 11,
+        "favorite_count": 42,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:49:35 +0000 2014",
+        "id": 432285104577454100,
+        "id_str": "432285104577454080",
+        "text": "eyes, certainly — necks, feet, waists, thighs",
+        "source": "Buffer",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2189503302,
+            "id_str": "2189503302",
+            "name": "NYT Minus Context",
+            "screen_name": "NYTMinusContext",
+            "location": "",
+            "description": "All Tweets Verbatim From New York Times Content. Not Affiliated with New York Times. Follow @NYTPlusContext for context. NYTMinusContext@gmail.com",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12838,
+            "friends_count": 898,
+            "listed_count": 158,
+            "created_at": "Tue Nov 12 03:15:23 +0000 2013",
+            "favourites_count": 3953,
+            "utc_offset": -21600,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1525,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000737186790/cf2fdc5e3dc3d9bd0e6233d271d4ca3b_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000737186790/cf2fdc5e3dc3d9bd0e6233d271d4ca3b_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2189503302/1384900032",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 8,
+        "favorite_count": 13,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:45:07 +0000 2014",
+        "id": 432283983943319550,
+        "id_str": "432283983943319552",
+        "text": "Adjacent Bowling Birthday Parties 30 Years Apart | More Local News: http://t.co/EXaZDRd7lH",
+        "source": "HootSuite",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14075928,
+            "id_str": "14075928",
+            "name": "The Onion",
+            "screen_name": "TheOnion",
+            "location": "",
+            "description": "America's Finest News Source. Subscribe on YouTube: http://t.co/5h833w1KO1",
+            "url": "http://t.co/Abkc9I2inH",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/Abkc9I2inH",
+                            "expanded_url": "http://www.theonion.com",
+                            "display_url": "theonion.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/5h833w1KO1",
+                            "expanded_url": "http://bitly.com/xzrBUA",
+                            "display_url": "bitly.com/xzrBUA",
+                            "indices": [
+                                52,
+                                74
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 5687612,
+            "friends_count": 12,
+            "listed_count": 70061,
+            "created_at": "Tue Mar 04 02:48:37 +0000 2008",
+            "favourites_count": 34,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 26811,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/183829455/onion_twitter.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/183829455/onion_twitter.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3654358881/476bd54bd9c2bc0f9a38b4e097ce6af5_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3654358881/476bd54bd9c2bc0f9a38b4e097ce6af5_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14075928/1369059277",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "F2E195",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 19,
+        "favorite_count": 39,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/EXaZDRd7lH",
+                    "expanded_url": "http://onion.com/12hq37u",
+                    "display_url": "onion.com/12hq37u",
+                    "indices": [
+                        68,
+                        90
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:42:04 +0000 2014",
+        "id": 432283215462936600,
+        "id_str": "432283215462936577",
+        "text": "A Minnesota town with more hockey rinks than stoplights is an Olympic incubator http://t.co/Ht4919KLXV",
+        "source": "SocialFlow",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 807095,
+            "id_str": "807095",
+            "name": "The New York Times",
+            "screen_name": "nytimes",
+            "location": "New York City",
+            "description": "Where the conversation begins. Follow for breaking news, special reports, http://t.co/u15NNuLyJH homepage links and RTs of our journalists.",
+            "url": "http://t.co/ahvuWqicF9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9",
+                            "expanded_url": "http://www.nytimes.com/",
+                            "display_url": "nytimes.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/u15NNuLyJH",
+                            "expanded_url": "http://NYTimes.com",
+                            "display_url": "NYTimes.com",
+                            "indices": [
+                                74,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 10886393,
+            "friends_count": 899,
+            "listed_count": 137737,
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+            "favourites_count": 18,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 126074,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2044921128/finals_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2044921128/finals_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1355346050",
+            "profile_link_color": "607696",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 117,
+        "favorite_count": 83,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/Ht4919KLXV",
+                    "expanded_url": "http://nyti.ms/1fORImP",
+                    "display_url": "nyti.ms/1fORImP",
+                    "indices": [
+                        80,
+                        102
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:40:11 +0000 2014",
+        "id": 432282742173483000,
+        "id_str": "432282742173483008",
+        "text": "RT @SochiNYT: See the halfpipe from @shaun_white's perspective: http://t.co/zH6OViV8Xd",
+        "source": "TweetDeck",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 807095,
+            "id_str": "807095",
+            "name": "The New York Times",
+            "screen_name": "nytimes",
+            "location": "New York City",
+            "description": "Where the conversation begins. Follow for breaking news, special reports, http://t.co/u15NNuLyJH homepage links and RTs of our journalists.",
+            "url": "http://t.co/ahvuWqicF9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9",
+                            "expanded_url": "http://www.nytimes.com/",
+                            "display_url": "nytimes.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/u15NNuLyJH",
+                            "expanded_url": "http://NYTimes.com",
+                            "display_url": "NYTimes.com",
+                            "indices": [
+                                74,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 10886393,
+            "friends_count": 899,
+            "listed_count": 137737,
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+            "favourites_count": 18,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 126074,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2044921128/finals_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2044921128/finals_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1355346050",
+            "profile_link_color": "607696",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 08 21:51:12 +0000 2014",
+            "id": 432270413172056060,
+            "id_str": "432270413172056064",
+            "text": "See the halfpipe from @shaun_white's perspective: http://t.co/zH6OViV8Xd",
+            "source": "SocialFlow",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 103058726,
+                "id_str": "103058726",
+                "name": "NYT Olympics ",
+                "screen_name": "SochiNYT",
+                "location": "New York",
+                "description": "Everything you could want on the Olympic Games from New York Times journalists in Sochi and New York. This account was formerly @NYTSportsLive.",
+                "url": "http://t.co/fHyyX1GOe0",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/fHyyX1GOe0",
+                                "expanded_url": "http://nytimes.com/sports",
+                                "display_url": "nytimes.com/sports",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 44653,
+                "friends_count": 20,
+                "listed_count": 861,
+                "created_at": "Fri Jan 08 18:55:13 +0000 2010",
+                "favourites_count": 80,
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3801,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/65159503/twitter_bkgrnd.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/65159503/twitter_bkgrnd.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/429016998593310720/39HEXoyU_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/429016998593310720/39HEXoyU_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 63,
+            "favorite_count": 44,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/zH6OViV8Xd",
+                        "expanded_url": "http://nyti.ms/1fLQvdO",
+                        "display_url": "nyti.ms/1fLQvdO",
+                        "indices": [
+                            50,
+                            72
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "shaun_white",
+                        "name": "Shaun White",
+                        "id": 16801904,
+                        "id_str": "16801904",
+                        "indices": [
+                            22,
+                            34
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 63,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/zH6OViV8Xd",
+                    "expanded_url": "http://nyti.ms/1fLQvdO",
+                    "display_url": "nyti.ms/1fLQvdO",
+                    "indices": [
+                        64,
+                        86
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "SochiNYT",
+                    "name": "NYT Olympics ",
+                    "id": 103058726,
+                    "id_str": "103058726",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "shaun_white",
+                    "name": "Shaun White",
+                    "id": 16801904,
+                    "id_str": "16801904",
+                    "indices": [
+                        36,
+                        48
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:37:21 +0000 2014",
+        "id": 432282028097413100,
+        "id_str": "432282028097413120",
+        "text": "RT @iansherr: Flappy Bird may fly the coop! Developer tweets it's being taken down, suggests criticisms were too much to bear. http://t.co/…",
+        "source": "TweetDeck",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3108351,
+            "id_str": "3108351",
+            "name": "Wall Street Journal",
+            "screen_name": "WSJ",
+            "location": "New York, NY",
+            "description": "In our 125th year, breaking news and features from the WSJ. Tweets by @rubinafillion @elanazak @allisonlichter @sarahmarshall @fieldproducer @mayaj and @lheron.",
+            "url": "http://t.co/ISU3VFHHhP",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ISU3VFHHhP",
+                            "expanded_url": "http://wsj.com",
+                            "display_url": "wsj.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4036460,
+            "friends_count": 817,
+            "listed_count": 73300,
+            "created_at": "Sun Apr 01 06:22:13 +0000 2007",
+            "favourites_count": 772,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 71428,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "EDF2F5",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/421411290729291776/j3cisjbo_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/421411290729291776/j3cisjbo_normal.jpeg",
+            "profile_link_color": "093D72",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 08 22:30:19 +0000 2014",
+            "id": 432280256016564200,
+            "id_str": "432280256016564224",
+            "text": "Flappy Bird may fly the coop! Developer tweets it's being taken down, suggests criticisms were too much to bear. http://t.co/ALm1Rk3RnT",
+            "source": "Buffer",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 726393,
+                "id_str": "726393",
+                "name": "Ian Sherr",
+                "screen_name": "iansherr",
+                "location": "San Francisco | @wsjd",
+                "description": "Wall Street Journal reporter covering the videogame and consumer electronics industries. ian.sherr@wsj.com +1.415.439.6455",
+                "url": "http://t.co/LvsujkO1g6",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/LvsujkO1g6",
+                                "expanded_url": "http://iansherr.com",
+                                "display_url": "iansherr.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4469,
+                "friends_count": 488,
+                "listed_count": 280,
+                "created_at": "Mon Jan 29 15:34:37 +0000 2007",
+                "favourites_count": 844,
+                "utc_offset": -28800,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 10969,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/416729680683597824/WINE76fv_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/416729680683597824/WINE76fv_normal.jpeg",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 122,
+            "favorite_count": 29,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/ALm1Rk3RnT",
+                        "expanded_url": "http://on.wsj.com/1iInkKK",
+                        "display_url": "on.wsj.com/1iInkKK",
+                        "indices": [
+                            113,
+                            135
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 122,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/ALm1Rk3RnT",
+                    "expanded_url": "http://on.wsj.com/1iInkKK",
+                    "display_url": "on.wsj.com/1iInkKK",
+                    "indices": [
+                        139,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "iansherr",
+                    "name": "Ian Sherr",
+                    "id": 726393,
+                    "id_str": "726393",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:33:55 +0000 2014",
+        "id": 432281162195931140,
+        "id_str": "432281162195931136",
+        "text": "Sochi Games Expose Indian Corruption and Redemption http://t.co/tVqNdsWMWZ",
+        "source": "SocialFlow",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5392522,
+            "id_str": "5392522",
+            "name": "NPR News",
+            "screen_name": "nprnews",
+            "location": "Washington, DC",
+            "description": "News. Arts & Life. Music. Everything and more from NPR.",
+            "url": "http://t.co/epTQGq8fvn",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/epTQGq8fvn",
+                            "expanded_url": "http://www.npr.org",
+                            "display_url": "npr.org",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2222041,
+            "friends_count": 74733,
+            "listed_count": 49114,
+            "created_at": "Sun Apr 22 05:10:15 +0000 2007",
+            "favourites_count": 249,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 64564,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414161733/nprnews_background.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414161733/nprnews_background.jpg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1796148436/nprnews_icon_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1796148436/nprnews_icon_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1328071709",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "87BC44",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 25,
+        "favorite_count": 18,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/tVqNdsWMWZ",
+                    "expanded_url": "http://n.pr/1d6TnUu",
+                    "display_url": "n.pr/1d6TnUu",
+                    "indices": [
+                        52,
+                        74
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:23:29 +0000 2014",
+        "id": 432278539120181250,
+        "id_str": "432278539120181248",
+        "text": "Tennessee Weighs The Cost Of A Free College Education http://t.co/NZoIbv65Ev",
+        "source": "SocialFlow",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5392522,
+            "id_str": "5392522",
+            "name": "NPR News",
+            "screen_name": "nprnews",
+            "location": "Washington, DC",
+            "description": "News. Arts & Life. Music. Everything and more from NPR.",
+            "url": "http://t.co/epTQGq8fvn",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/epTQGq8fvn",
+                            "expanded_url": "http://www.npr.org",
+                            "display_url": "npr.org",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2222041,
+            "friends_count": 74733,
+            "listed_count": 49114,
+            "created_at": "Sun Apr 22 05:10:15 +0000 2007",
+            "favourites_count": 249,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 64564,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414161733/nprnews_background.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414161733/nprnews_background.jpg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1796148436/nprnews_icon_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1796148436/nprnews_icon_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1328071709",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "87BC44",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 92,
+        "favorite_count": 58,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/NZoIbv65Ev",
+                    "expanded_url": "http://n.pr/1f4R4Oc",
+                    "display_url": "n.pr/1f4R4Oc",
+                    "indices": [
+                        54,
+                        76
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:23:23 +0000 2014",
+        "id": 432278512134029300,
+        "id_str": "432278512134029313",
+        "text": "This price tag shows real-time cost of an item in Bitcoin http://t.co/lL0AvhLXRw",
+        "source": "SocialFlow",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 12480582,
+            "id_str": "12480582",
+            "name": "Ad Age",
+            "screen_name": "adage",
+            "location": "New York and beyond...",
+            "description": "Ad Age is the leading global source of news, intelligence and conversation for marketing and media communities.",
+            "url": "http://t.co/83n91xZQEd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/83n91xZQEd",
+                            "expanded_url": "http://adage.com",
+                            "display_url": "adage.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 546965,
+            "friends_count": 12306,
+            "listed_count": 20930,
+            "created_at": "Mon Jan 21 04:14:09 +0000 2008",
+            "favourites_count": 253,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 20406,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6077722/twitterfile7.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6077722/twitterfile7.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3245320621/ce6b6797e1f705a3aed4de9a74bf8898_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3245320621/ce6b6797e1f705a3aed4de9a74bf8898_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/12480582/1380648405",
+            "profile_link_color": "28889E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDDDDD",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 7,
+        "favorite_count": 5,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/lL0AvhLXRw",
+                    "expanded_url": "http://bit.ly/1fRizP2",
+                    "display_url": "bit.ly/1fRizP2",
+                    "indices": [
+                        58,
+                        80
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:22:05 +0000 2014",
+        "id": 432278185065971700,
+        "id_str": "432278185065971713",
+        "text": "Wolfgang Puck has an #askWSJD question: How can he can track his employees? Apps? Time clocks? Implanted GPS chips?   http://t.co/5lPeFUBRHv",
+        "source": "TweetDeck",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28172926,
+            "id_str": "28172926",
+            "name": "WSJD",
+            "screen_name": "WSJD",
+            "location": "",
+            "description": "The Wall Street Journal's home for global tech news, analysis, commentary, daily buzz and reviews. | ($) marks subscriber content.",
+            "url": "http://t.co/G6LDFkS9qB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/G6LDFkS9qB",
+                            "expanded_url": "http://wsjd.com",
+                            "display_url": "wsjd.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 109314,
+            "friends_count": 65,
+            "listed_count": 4821,
+            "created_at": "Wed Apr 01 19:23:56 +0000 2009",
+            "favourites_count": 3,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 11145,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/421409513455894528/tyj0G4uS_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/421409513455894528/tyj0G4uS_normal.jpeg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "askWSJD",
+                    "indices": [
+                        21,
+                        29
+                    ]
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/5lPeFUBRHv",
+                    "expanded_url": "http://on.wsj.com/1jl6JAf",
+                    "display_url": "on.wsj.com/1jl6JAf",
+                    "indices": [
+                        118,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:18:26 +0000 2014",
+        "id": 432277268879003650,
+        "id_str": "432277268879003648",
+        "text": "RT @samschech: Google bows to French order to disclose €150k privacy fine (in centered 13-pt Arial type):  http://t.co/yLOLZZMiIw http://t.…",
+        "source": "Twitter for iPhone",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28172926,
+            "id_str": "28172926",
+            "name": "WSJD",
+            "screen_name": "WSJD",
+            "location": "",
+            "description": "The Wall Street Journal's home for global tech news, analysis, commentary, daily buzz and reviews. | ($) marks subscriber content.",
+            "url": "http://t.co/G6LDFkS9qB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/G6LDFkS9qB",
+                            "expanded_url": "http://wsjd.com",
+                            "display_url": "wsjd.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 109314,
+            "friends_count": 65,
+            "listed_count": 4821,
+            "created_at": "Wed Apr 01 19:23:56 +0000 2009",
+            "favourites_count": 3,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 11145,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/421409513455894528/tyj0G4uS_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/421409513455894528/tyj0G4uS_normal.jpeg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 08 22:16:27 +0000 2014",
+            "id": 432276768532471800,
+            "id_str": "432276768532471808",
+            "text": "Google bows to French order to disclose €150k privacy fine (in centered 13-pt Arial type):  http://t.co/yLOLZZMiIw http://t.co/h2exqTG0rj",
+            "source": "Twitter for iPhone",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 14412988,
+                "id_str": "14412988",
+                "name": "Sam Schechner",
+                "screen_name": "samschech",
+                "location": "Paris",
+                "description": "Tech correspondent for Europe, Middle East and Africa at The Wall Street Journal. Based in our Paris bureau.",
+                "url": "http://t.co/CbVnhsQ8Wa",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/CbVnhsQ8Wa",
+                                "expanded_url": "http://samschechner.com",
+                                "display_url": "samschechner.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2877,
+                "friends_count": 1276,
+                "listed_count": 169,
+                "created_at": "Wed Apr 16 21:13:25 +0000 2008",
+                "favourites_count": 1,
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 751,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/586346580/Sam-hub_normal.JPG",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/586346580/Sam-hub_normal.JPG",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    48.84941511,
+                    2.37104773
+                ]
+            },
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    2.37104773,
+                    48.84941511
+                ]
+            },
+            "place": {
+                "id": "7238f93a3e899af6",
+                "url": "https://api.twitter.com/1.1/geo/id/7238f93a3e899af6.json",
+                "place_type": "city",
+                "name": "Paris",
+                "full_name": "Paris, Paris",
+                "country_code": "FR",
+                "country": "France",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                2.2241006,
+                                48.8155414
+                            ],
+                            [
+                                2.4699099,
+                                48.8155414
+                            ],
+                            [
+                                2.4699099,
+                                48.9021461
+                            ],
+                            [
+                                2.2241006,
+                                48.9021461
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "retweet_count": 16,
+            "favorite_count": 7,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/yLOLZZMiIw",
+                        "expanded_url": "http://bit.ly/1bdHop8",
+                        "display_url": "bit.ly/1bdHop8",
+                        "indices": [
+                            92,
+                            114
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 432276768440209400,
+                        "id_str": "432276768440209408",
+                        "indices": [
+                            115,
+                            137
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Bf_BbjuIUAALD8y.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Bf_BbjuIUAALD8y.jpg",
+                        "url": "http://t.co/h2exqTG0rj",
+                        "display_url": "pic.twitter.com/h2exqTG0rj",
+                        "expanded_url": "http://twitter.com/samschech/status/432276768532471808/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 400,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 660,
+                                "h": 440,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 339,
+                                "h": 226,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 16,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "url": "http://t.co/yLOLZZMiIw",
+                    "expanded_url": "http://bit.ly/1bdHop8",
+                    "display_url": "bit.ly/1bdHop8",
+                    "indices": [
+                        107,
+                        129
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "samschech",
+                    "name": "Sam Schechner",
+                    "id": 14412988,
+                    "id_str": "14412988",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 432276768440209400,
+                    "id_str": "432276768440209408",
+                    "indices": [
+                        139,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Bf_BbjuIUAALD8y.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Bf_BbjuIUAALD8y.jpg",
+                    "url": "http://t.co/h2exqTG0rj",
+                    "display_url": "pic.twitter.com/h2exqTG0rj",
+                    "expanded_url": "http://twitter.com/samschech/status/432276768532471808/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 660,
+                            "h": 440,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 339,
+                            "h": 226,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 08 22:16:53 +0000 2014",
+        "id": 432276877131386900,
+        "id_str": "432276877131386883",
+        "text": "Visiting w/a weird friend... http://t.co/fuQEQntHnO",
+        "source": "Twitter for iPhone",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18648536,
+            "id_str": "18648536",
+            "name": "Anthony Fantano",
+            "screen_name": "theneedledrop",
+            "location": "Internet",
+            "description": "A b/vlog and public radio show about music of the independent persuasion.",
+            "url": "http://t.co/bDAYYc6CkR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/bDAYYc6CkR",
+                            "expanded_url": "http://theneedledrop.com",
+                            "display_url": "theneedledrop.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 47513,
+            "friends_count": 3776,
+            "listed_count": 835,
+            "created_at": "Mon Jan 05 22:09:28 +0000 2009",
+            "favourites_count": 3483,
+            "utc_offset": -21600,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 40807,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C7B395",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493025679/backgroundgreyblock_2.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493025679/backgroundgreyblock_2.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/417706259895160832/s08_f8WG_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/417706259895160832/s08_f8WG_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18648536/1378847371",
+            "profile_link_color": "C61717",
+            "profile_sidebar_border_color": "FF7300",
+            "profile_sidebar_fill_color": "FCF1E0",
+            "profile_text_color": "1F1C1F",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 2,
+        "favorite_count": 19,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [],
+            "media": [
+                {
+                    "id": 432276876879732740,
+                    "id_str": "432276876879732736",
+                    "indices": [
+                        29,
+                        51
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Bf_Bh3sIIAAxTzW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Bf_Bh3sIIAAxTzW.jpg",
+                    "url": "http://t.co/fuQEQntHnO",
+                    "display_url": "pic.twitter.com/fuQEQntHnO",
+                    "expanded_url": "http://twitter.com/theneedledrop/status/432276877131386883/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]
