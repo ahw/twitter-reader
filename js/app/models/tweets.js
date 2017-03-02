@@ -124,5 +124,6 @@ define([
             });
         }
     });
+    window.tweetCollection = TweetCollection;
     return TweetCollection;
 });
